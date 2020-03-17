@@ -1,7 +1,7 @@
 {
-    "id": "/providers/Microsoft.Logic/galleries/public/templates/{Guid}",
-    "type": "Microsoft.Logic/galleries/templates",
-    "name": "{Guid}",
+  "id": "/providers/Microsoft.Logic/galleries/public/templates/dccfac8b-3005-4128-a974-65ae64a20cd1",
+  "type": "Microsoft.Logic/galleries/templates",
+  "name": "dccfac8b-3005-4128-a974-65ae64a20cd1",
   "properties": {
     "author": {
       "displayName": "Nicholas DiCola"
